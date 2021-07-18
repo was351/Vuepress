@@ -5,7 +5,8 @@ module.exports = {
         nav:[
             {text:"Home",link: '/'},
             {text:"Guide",link: '/guide/'},
-            {text:"Team Website",link: 'https://www.youtube.com/watch?v=5Kqyhu_eIcw'},
+            
+            {text:"Team Website",link: 'https://srilab.ca/#/'},
         ],
         sidebar: {
         '/guide/': [
@@ -16,8 +17,11 @@ module.exports = {
             'drive',
             'lifting',
             'eng',
+            'comp',
+            'tink',
 
         ],
+        
 
         }
         
